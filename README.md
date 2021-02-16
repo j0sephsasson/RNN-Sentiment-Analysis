@@ -13,7 +13,8 @@ This notebook has a fully functional RNN for sentiment analysis, ready for deplo
 # Usage
 Example Output:
 
-```{'symbol': '$AAPL',
+```
+{'symbol': '$AAPL',
  'score': tensor([[ 0.0882,  0.0927,  0.2245,  0.2279,  0.3667]]),
  'timestamp': '2018-11-01T00:00:18Z'}
  ```
