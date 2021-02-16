@@ -15,6 +15,7 @@ Example Output:
 
 ```{'symbol': '$AAPL',
  'score': tensor([[ 0.0882,  0.0927,  0.2245,  0.2279,  0.3667]]),
- 'timestamp': '2018-11-01T00:00:18Z'}```
+ 'timestamp': '2018-11-01T00:00:18Z'}
+ ```
 
 The model returns a score from very negative to very positive.  
